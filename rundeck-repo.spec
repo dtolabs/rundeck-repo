@@ -1,5 +1,5 @@
 name: rundeck-repo
-version: 1
+version: 2
 release: 0
 summary: RunDeck Repository Bootstrap
 group: Applications/System
@@ -15,7 +15,7 @@ The RunDeck project consists of numerous RPMs ready for install on a users machi
 /etc/yum.repos.d/rundeck.repo
 
 %package bleeding
-version: 1
+version: 2
 release: 0
 summary: Rundeck Repository Bootstrap - Bleeding Edge Releases
 group: Application/System

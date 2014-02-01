@@ -1,18 +1,18 @@
 [rundeck-release]
 name=Rundeck - Release
-baseurl=http://rundeck.org/repo/rundeck/1/release
-gpgkey=http://rundeck.org/repo/RPM-GPG-KEY-RunDeck.org
+baseurl=http://repo.rundeck.org/repo/rundeck/1/release
+gpgkey=http://repo.rundeck.org/repo/RPM-GPG-KEY-RunDeck.org
 gpgcheck=0
 
 [rundeck-updates]
 name=Rundeck - Updates
-baseurl=http://rundeck.org/repo/rundeck/1/updates
-gpgkey=http://rundeck.org/repo/RPM-GPG-KEY-RunDeck.org
+baseurl=http://repo.rundeck.org/repo/rundeck/1/updates
+gpgkey=http://repo.rundeck.org/repo/RPM-GPG-KEY-RunDeck.org
 gpgcheck=0
 enabled=0
 
 [rundeck-bleeding]
 name=Rundeck - Bleeding Edge
-baseurl=http://rundeck.org/repo/rundeck/1/bleedingedge
+baseurl=http://repo.rundeck.org/repo/rundeck/1/bleedingedge
 gpgcheck=0
 enabled=0
